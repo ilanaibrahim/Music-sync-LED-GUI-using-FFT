@@ -1,2 +1,2 @@
 # Music-sync-LED-GUI-using-FFT
-GUI which stimulates 144 LEDs. The LED strip reacts according to the volume and tempo of the sound. This is done by using the mic of the device to record snippets of the audio and use FFT to convert the audio signal into their respective frequencies to generate a continuous wave. 
+GUI which stimulates 144 LEDs. The LED strip reacts according to the volume and tempo of the sound. The mic of the device records audio and implement FFT to convert the signal into their respective frequencies to generate a continuous wave. 
